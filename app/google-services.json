@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410805709094",
+    "project_id": "light-client-164716"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410805709094:android:8fc65c866679411b",
+        "android_client_info": {
+          "package_name": "com.quorg.socialcontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410805709094-se67quc1d8nu8g6k7ec873950khcj62r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "410805709094-87j2eab1174rl3l0inf65m6nvjksdql0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quorg.socialcontacts",
+            "certificate_hash": "296fa369d1c7202895ef03739e609eacf91c69a5"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKguimFhyvrYkQfX5wPlRIgh39dTQu9k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

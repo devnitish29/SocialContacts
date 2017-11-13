@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Synkir</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="clientID">410805709094-se67quc1d8nu8g6k7ec873950khcj62r.apps.googleusercontent.com</string>
+    <string name="clientSecret">uIY3V39VPMKlxbGvZYjD8Y5c</string>
+</resources>
